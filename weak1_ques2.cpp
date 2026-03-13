@@ -34,7 +34,6 @@ int main() {
                 low = mid + 1;
             }
         }
-
         if (found)
             cout << "Present " << comparisons << endl;
         else
